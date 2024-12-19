@@ -1,0 +1,54 @@
+* {
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+
+}
+
+.display {
+    width: 400px;
+    height: 50px;
+    text-align: right;
+
+}
+
+.c {
+
+    width: 200px;
+    height: 50px;
+}
+
+.delete {
+    margin: auto;
+    width: 200px;
+    height: 50px;
+}
+
+.number {
+    margin: auto;
+    width: 100px;
+    height: 50px;
+
+}
+
+.operation {
+    width: 100px;
+    height: 50px;
+}
+
+.cero {
+    width: 200px;
+    height: 50px;
+}
+
+.punto {
+    width: 100px;
+    height: 50px;
+}
+
+.igual {
+    width: 400px;
+    height: 50px;
+}

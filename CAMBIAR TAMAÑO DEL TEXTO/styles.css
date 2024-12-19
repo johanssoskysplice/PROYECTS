@@ -1,0 +1,53 @@
+.texto {
+    font-size: 40px;
+    text-align: center;
+    color: blue;
+    margin-top: 150px;
+
+}
+
+.buttonAumentar {
+    width: 200px;
+    height: 50px;
+    margin-top: 50px;
+    margin-left: 450px;
+    font-size: 20px;
+
+}
+
+.buttonDisminuir {
+    width: 200px;
+    height: 50px;
+    margin-top: 50px;
+    margin-left: 100px;
+    font-size: 20px;
+}
+
+.text2 {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 100px;
+
+}
+
+.select {
+    width: 130px;
+    height: 30px;
+    margin-top: 0px;
+    margin-left: 650px;
+    font-size: 20px;
+}
+
+.selectG {
+    width: 130px;
+    height: 30px;
+    margin-top: 0px;
+    margin-left: 650px;
+    font-size: 20px;
+}
+
+option[value="undefined"] {
+    color: grey;
+    font-weight: bold;
+
+}

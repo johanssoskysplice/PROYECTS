@@ -1,0 +1,23 @@
+.texto {
+    font-size: 40px;
+    margin-top: 350px;
+    text-align: center;
+}
+
+.boton1 {
+    font-size: 40px;
+    height: 100px;
+    width: 200px;
+    margin-left: 400px;
+    margin-top: 40px;
+    padding: 10px;
+}
+
+.boton2 {
+    font-size: 40px;
+    height: 100px;
+    width: 200px;
+    margin-left: 150px;
+    margin-top: 40px;
+    padding: 10px;
+}

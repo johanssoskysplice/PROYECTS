@@ -1,0 +1,33 @@
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-top: 70px;
+}
+
+.cancha {
+    background-color: rgb(136, 215, 179);
+    width: 500px;
+    height: 600px;
+    margin: auto;
+
+}
+
+.jugadoresimg {
+    width: 40px;
+    cursor: pointer;
+
+}
+
+.porteroimg {
+    position: absolute;
+    width: 40px;
+    height: auto;
+    margin-top: 480px;
+    margin-left: 230px;
+
+}
+
+#j1 {
+    margin-top: 20px;
+    margin-left: 30px;
+}
