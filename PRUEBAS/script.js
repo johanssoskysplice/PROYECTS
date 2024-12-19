@@ -1,7 +1,7 @@
 let horas = 0
 let minutos = 0
 let segundos = 0
-let miliSegundos = 0
+let miliSegundos = 1
 let intervalid = null
 
 const cronometroDisplay = document.getElementById("cronometro")
